@@ -1,9 +1,8 @@
 {
   "name": "fadyhany/mvc",
   "description": "micro mvc",
-  "version": "1.0.2",
   "require": {
-    "php": ">=8.2",
+    "php": ">=7.2",
     "another-vendor/package": "1.*"
   },
   "autoload": {
