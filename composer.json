@@ -3,6 +3,7 @@
   "description": "micro mvc",
   "license": "MIT",
   "type": "framework",
+  "minimum-stability": "stable",
   "require": {
     "php": "^7.2",
     "another-vendor/package": "1.*"
