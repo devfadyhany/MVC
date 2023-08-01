@@ -1,8 +1,10 @@
 {
   "name": "fadyhany/mvc",
   "description": "micro mvc",
+  "license": "MIT",
+  "type": "framework",
   "require": {
-    "php": ">=7.2",
+    "php": "^7.2",
     "another-vendor/package": "1.*"
   },
   "autoload": {
