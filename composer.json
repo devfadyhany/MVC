@@ -1,6 +1,7 @@
 {
   "name": "fadyhany/mvc",
   "description": "micro mvc",
+  "version": "1.0.0",
   "require": {
     "php": ">=8.2",
     "another-vendor/package": "1.*"
